@@ -1,7 +1,9 @@
 # Dual Contouring Terrain Editor
 
-<img src="docs/demo1.png" width="200" alt="Demo 1">
-<img src="docs/demo2.png" width="200" alt="Demo 2">
+<p align="middle">
+    <img src="docs/demo1.png" width="200" alt="Demo 1">
+    <img src="docs/demo2.png" width="200" alt="Demo 2">
+</p>
 
 This is an interactive terrain editor that renders SDF-s using Dual Contouring, and allows the resulting mesh to be edited with a spherical brush.
 
