@@ -1,7 +1,7 @@
 # Dual Contouring Terrain Editor
 
-![Demo](https://raw.githubusercontent.com/thinnerthinker/legacy-dual-contouring/main/docs/demo1.png)
-![Demo](https://raw.githubusercontent.com/thinnerthinker/legacy-dual-contouring/main/docs/demo2.png)
+<img src="docs/demo1.png" width="200" alt="Demo 1">
+<img src="docs/demo2.png" width="200" alt="Demo 2">
 
 This is an interactive terrain editor that renders SDF-s using Dual Contouring, and allows the resulting mesh to be edited with a spherical brush.
 
